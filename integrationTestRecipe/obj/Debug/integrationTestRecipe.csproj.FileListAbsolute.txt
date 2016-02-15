@@ -1,0 +1,7 @@
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\integrationTestRecipe\bin\Debug\integrationTestRecipe.dll
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\integrationTestRecipe\bin\Debug\integrationTestRecipe.pdb
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\integrationTestRecipe\bin\Debug\recipe_amerihome.exe
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\integrationTestRecipe\bin\Debug\recipe_amerihome.pdb
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\integrationTestRecipe\obj\Debug\integrationTestRecipe.csprojResolveAssemblyReference.cache
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\integrationTestRecipe\obj\Debug\integrationTestRecipe.dll
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\integrationTestRecipe\obj\Debug\integrationTestRecipe.pdb

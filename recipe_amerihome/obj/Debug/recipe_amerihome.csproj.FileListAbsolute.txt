@@ -1,0 +1,6 @@
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\recipe_amerihome\bin\Debug\recipe_amerihome.exe.config
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\recipe_amerihome\bin\Debug\recipe_amerihome.exe
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\recipe_amerihome\bin\Debug\recipe_amerihome.pdb
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\recipe_amerihome\obj\Debug\recipe_amerihome.exe
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\recipe_amerihome\obj\Debug\recipe_amerihome.pdb
+C:\Users\MSI\documents\visual studio 2012\Projects\recipe_amerihome\recipe_amerihome\obj\Debug\recipe_amerihome.csprojResolveAssemblyReference.cache
